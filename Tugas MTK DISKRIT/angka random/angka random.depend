@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664008138 source:c:\users\admin\documents\codeblock\c dan c++\tugas mtk diskrit\angka random\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
